@@ -4,6 +4,15 @@ This repository contains the test automation framework for the [Guru99 Demo Bank
 
 ---
 
+## How to run it
+
+To run the automation testing follow these 3 steps:
+1. Make a managaer account at [Guru99 Demo Banking Site](https://demo.guru99.com/V4/)
+2. Copy the id - pass and paste it on setUp_Class of all files.
+3. Run the test suite
+
+---
+
 ## 🚀 Project Purpose
 
 To practice and demonstrate end-to-end test automation of a web-based banking system, covering nine essential modules through automated test cases.
